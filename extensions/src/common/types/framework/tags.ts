@@ -1,1 +1,0 @@
-export type Tag = "Made by PRG" | "PRG Internal" | "Made by Scratch" | "Dancing with AI";
